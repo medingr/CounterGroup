@@ -1,0 +1,31 @@
+.counter-group{
+font-size: 3rem;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+min-height: 100vh;
+margin-top: 20px;
+}
+ 
+.counter-groupinput {
+font-size: 3rem;
+}
+ 
+.counter-groupbutton {
+font-size: 3rem;
+}
+ 
+.regenerate {
+display: flex;
+flex-direction: column;
+min-height: 80px
+}
+ 
+.regenerate-input {
+margin-bottom: 20px
+}
+ 
+.regeneratespan {
+color: green;
+}
+
