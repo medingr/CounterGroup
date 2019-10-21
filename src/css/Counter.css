@@ -1,8 +1,6 @@
 .Counter {
 text-align: center;
 background: #282c34;
-min-height: 100vh;
-display: flex;
 flex-direction: column;
 justify-content: center;
 color: white;
