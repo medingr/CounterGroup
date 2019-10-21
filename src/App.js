@@ -1,11 +1,8 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import CounterGroup from  './components/CounterGroup';
 
-class App extends React.Component{
-
-  render () { 
+function App () {
     return (
     <div className="App">
       <header className="App-header">
@@ -13,7 +10,7 @@ class App extends React.Component{
       </header>
     </div>
   );
-  }
+  
 }
 
 export default App;
